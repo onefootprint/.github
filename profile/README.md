@@ -1,6 +1,7 @@
 
 <p align="center">
-  <img width="256" alt="Footprint" src="https://user-images.githubusercontent.com/356333/166570682-e37ad093-1929-45b9-a80a-cb7cc7810090.png">
+
+  <img width="256" height="256" alt="Footprint" src="https://user-images.githubusercontent.com/356333/170632060-758ce60d-f93f-412d-9c70-28bf7ee59b09.png">
   <h2 align="center">👋 Hello there, welcome to Footprint! 👣</h2>
   <p align="center">More coming soon...</p>
 </p>
